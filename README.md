@@ -1,2 +1,2 @@
-# MultiplesOf3And5
-The sum of multiples of 3 and 5 under 1000
+# Project-Euler
+A collection of solutions to various different problems from Project Euler
